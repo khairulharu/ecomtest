@@ -35,3 +35,10 @@ run the app with command noted you have
 ```go
 go run main.go
 ```
+
+
+link drive of the dump and collection json
+
+```
+https://drive.google.com/drive/folders/1U7jxs3Ow-TUKOKrlj0SZivm1DmuBJxOK?usp=sharing
+```

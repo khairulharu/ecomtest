@@ -144,7 +144,7 @@ func (p productService) UpdateTheProduct(ctx context.Context, req dto.ProductReq
 			Error:   "body must bee fill",
 		}
 	}
-
+	productUpdate.ID = req.ID
 	productUpdate.Title = req.Title
 	productUpdate.Description = req.Description
 	productUpdate.Rating = req.Rating
